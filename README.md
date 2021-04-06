@@ -69,6 +69,11 @@ Communication of annotations over network using the following [RESTful Web Servi
 The event is open to any party interested in collaborative software development in the field of digital and computational pathology.
 We encourage participation of different stakeholder groups from academia, government, and industry.
 
+### What's in it for me?
+
+A subset of projects will be selected for presentation at the final session at the ECDP conference and awarded a prize.
+In addition, participants will be invited to become coauthors of a summary report publication.
+
 ### What will I need to bring?
 
 All you need is a computer and an internet connection.
