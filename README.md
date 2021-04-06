@@ -102,7 +102,7 @@ If you like a particular project, upvote the pull request using the 👍️ emoj
 
 While there is in principle no restriction on the number of participants per project or the total number of projects, we have only a limited number of meetup areas at the final at the ECDP conference.
 Therefore, a subset of projects will be selected by the DICOM WG-26 AHG for presentation at ECDP.
-Selection criteria will include activity, popularity, and status of the project.
+Selection criteria will include standard conformance, clinical relevance, popularity, and status of the project.
 
 ### What should I work on?
 
