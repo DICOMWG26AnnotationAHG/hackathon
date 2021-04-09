@@ -142,10 +142,10 @@ Participants are **not** obligated to provide access to software or underlying s
 
 ## Supporters
 
-- Computational Pathology, Massachusetts General Hospital
-- Digital Pathology Association (DPA)
+- Computational Pathology, Massachusetts General Hospital (MGH)
 - European Society of Digital and Integrative Pathology (ESDIP)
+- Digital Pathology Association (DPA)
 - Alliance for Digital Pathology
 - Neagen
 - J4Care
-- Google Cloud Healthcare
+- Google Cloud Healthcare & Life Sciences
