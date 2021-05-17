@@ -74,6 +74,15 @@ We encourage participation of different stakeholder groups from academia, govern
 A subset of projects will be selected for presentation at the final session at the ECDP conference and awarded a prize.
 In addition, participants will be invited to become coauthors of a summary report publication.
 
+### How will projects be evaluated?
+
+Projects will be assessed by a panel of experts with experience in DICOM and pathology using the following criteria:
+
+- Standard compliance
+- Clinical relevance and completeness of information
+- Exploration and identification of gaps in the current version of the standard (e.g., via DICOM Correction Proposals)
+- Information of future standard development
+
 ### What will I need to bring?
 
 All you need is a computer and an internet connection.
