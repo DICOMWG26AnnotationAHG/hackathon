@@ -102,7 +102,7 @@ Information technology resources:
 - Origin servers with DICOMweb interface for data storage, query, and retrieval
 - Limited number of cloud virtual machine (VM) instances for hosting Jupyter notebooks, web-based viewers, or image management systems.
 
-For an overview of available origin servers, please refer to the [servers.md](servers.md) document.
+For an overview of available DICOMweb origin servers, please refer to the [servers.md](servers.md) document.
 
 ### Are there any costs?
 
