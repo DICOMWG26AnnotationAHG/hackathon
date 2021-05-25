@@ -95,10 +95,14 @@ Data sets:
 - DICOM Segmentation (SEG) images
 - DICOM Structured Report (SR) documents
 
+For an overview of available DICOM studies, please refer to the [data.md](data.md) document.
+
 Information technology resources:
 
-- Image management systems with DICOMweb interface for data storage, query, and retrieval
+- Origin servers with DICOMweb interface for data storage, query, and retrieval
 - Limited number of cloud virtual machine (VM) instances for hosting Jupyter notebooks, web-based viewers, or image management systems.
+
+For an overview of available DICOMweb origin servers, please refer to the [servers.md](servers.md) document.
 
 ### Are there any costs?
 
