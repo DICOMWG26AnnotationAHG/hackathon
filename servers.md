@@ -28,9 +28,9 @@ https://cloud.neagen.com/ilp
 
 Note that this origin server exposes each of the transactions of the DICOMweb Studies Service at a different path prefix:
 
-* Search transaction (QIDO-RS): https://cloud.neagen.com/ilp/qrs
-* Retrieve transaction (WADO-RS): https://cloud.neagen.com/ilp/wrs
-* Store transaction (STOW-RS): https://cloud.neagen.com/ilp/stowrs
+* Search transaction (QIDO-RS): `https://cloud.neagen.com/ilp/qrs`
+* Retrieve transaction (WADO-RS): `https://cloud.neagen.com/ilp/wrs`
+* Store transaction (STOW-RS): `https://cloud.neagen.com/ilp/stowrs`
 
 ### DICOM conformance statement
 
@@ -38,7 +38,7 @@ Note that this origin server exposes each of the transactions of the DICOMweb St
 ## Google Cloud Healthcare API
 
 The [Google Cloud Healthcare API](https://cloud.google.com/healthcare) generally requires users to authenticate and authorize an application to access the data stored in a DICOM store via the DICOMweb RESTful API.
-To enable public access during the Hackathon event, we set up a reverse proxy server in front of the DICOMweb API in an [Imaging Data Commons (IDC) cloud environment](https://learn.canceridc.dev/).
+To enable public access during the Hackathon event, we set up a reverse proxy server in front of the DICOM store in an [Imaging Data Commons (IDC) cloud environment](https://learn.canceridc.dev/).
 
 ### DICOMweb Studies Service Base URI
 
