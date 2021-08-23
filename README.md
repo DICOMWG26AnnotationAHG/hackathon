@@ -210,8 +210,8 @@ Participants are **not** obligated to provide access to software or underlying s
 - Computational Pathology, Massachusetts General Hospital (MGH)
 - Digital Pathology Association (DPA)
 - European Society of Digital and Integrative Pathology (ESDIP)
-- National Cancer Institute (NCI) Imaging Data Commons (IDC)
 - Alliance for Digital Pathology
-- Neagen
-- J4Care
+- National Cancer Institute (NCI) Imaging Data Commons (IDC)
+- Digital Pathology Place
+- 3DHistech
 - Google Cloud Healthcare & Life Sciences
