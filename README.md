@@ -43,7 +43,7 @@ For the Hackathon, we consider two types of systems:
 - **Image display systems**: Slide microscopy image viewers with annotation capabilities that enable users to draw and review annotations.
 - **Image analysis systems**: ML models in training or evaluation mode that either use annotations as ground truth labels for supervised learning during model training or generate annotations during model inference, respectively.
 
-Each system may take on the role of an annotation producer or consumer:
+Each system may take on the role of an annotation producer or consumer (or both):
 
  - **Producer**: Creates annotations for a given image.
  - **Consumer**: Parses and interprets annotations together with the corresponding source image.
